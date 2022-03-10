@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Servlet/src/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/src/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/target/Servlet/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/Servlet/target/Servlet/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/target/classes/classes.iml" filepath="$PROJECT_DIR$/Servlet/target/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/target/Servlet/WEB-INF/classes/classes1.iml" filepath="$PROJECT_DIR$/Servlet/target/Servlet/WEB-INF/classes/classes1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/target/target.iml" filepath="$PROJECT_DIR$/Servlet/target/target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/target/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/Servlet/target/tomcat/tomcat.iml" />
+    </modules>
+  </component>
+</project>

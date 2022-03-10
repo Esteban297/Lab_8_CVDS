@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:14 -0500] "GET / HTTP/1.1" 304 - http-bio-8080-exec-1 131
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 5396 http-bio-8080-exec-3 104
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/core.js;jsessionid=851E5FE642F3CB673AD24C61F1B697F7?ln=primefaces&v=8.0 HTTP/1.1" 200 43146 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/jquery/jquery.js;jsessionid=851E5FE642F3CB673AD24C61F1B697F7?ln=primefaces&v=8.0 HTTP/1.1" 200 88237 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=851E5FE642F3CB673AD24C61F1B697F7?ln=primefaces&v=8.0 HTTP/1.1" 200 267621 http-bio-8080-exec-6 10
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/components.js;jsessionid=851E5FE642F3CB673AD24C61F1B697F7?ln=primefaces&v=8.0 HTTP/1.1" 200 435082 http-bio-8080-exec-8 13
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/theme.css?ln=primefaces-aristo HTTP/1.1" 200 24975 http-bio-8080-exec-4 17
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /faces/javax.faces.resource/components.css;jsessionid=851E5FE642F3CB673AD24C61F1B697F7?ln=primefaces&v=8.0 HTTP/1.1" 200 96157 http-bio-8080-exec-2 27
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:46 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:58 -0500] "POST /faces/calculadora.xhtml;jsessionid=851E5FE642F3CB673AD24C61F1B697F7 HTTP/1.1" 200 4265 http-bio-8080-exec-2 16
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:58 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 4280 http-bio-8080-exec-2 7
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:56:59 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 4294 http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:57:00 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 4294 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:21:57:01 -0500] "POST /faces/calculadora.xhtml HTTP/1.1" 200 4260 http-bio-8080-exec-2 5
