@@ -4,6 +4,9 @@
 
 ## INTEGRACIÓN DE CAPAS CON GOOGLE GUICE  
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eaad2df17b884d8b9a14939862c8695b)](https://www.codacy.com/gh/Esteban297/Lab_8_CVDS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Esteban297/Lab_8_CVDS&amp;utm_campaign=Badge_Grade)
+[![CircleCI](https://circleci.com/gh/Esteban297/Lab_8_CVDS/tree/master.svg?style=svg)](https://circleci.com/gh/Esteban297/Lab_8_CVDS/tree/master)
+
 ![BaseDatos](./img/BaseDatos.PNG)  
 ![DiagramaClases](./img/DiagramaClases.PNG)  
 
