@@ -777,7 +777,7 @@
 
    ![vistaCliente](https://github.com/Esteban297/Lab_8_CVDS/blob/master/img/localhost.png)
 
-   ![vistaAlquiler](./img/alquiler.png)
+   ![vistaAlquiler](https://github.com/Esteban297/Lab_8_CVDS/blob/master/img/registro.png)
 
 7. **Modifique la configuración de Guice para asociar a la interfaz, el servicio concreto de alquileres, de forma que todos los cambios que se realicen en la presentación, se actualicen en base de datos de manera correcta.**
 
