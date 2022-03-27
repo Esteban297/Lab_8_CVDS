@@ -775,7 +775,7 @@
 
 6. **Construya y despliegue la aplicación con el comando mvn tomcat7:run y realice pruebas de la presentación, que debe estar funcionando correctamente, con la implementación ‘Stub’ del servicio de alquiler.**
 
-   ![vistaCliente](./img/clientes.png)
+   ![vistaCliente](https://github.com/Esteban297/Lab_8_CVDS/blob/master/img/localhost.png)
 
    ![vistaAlquiler](./img/alquiler.png)
 
